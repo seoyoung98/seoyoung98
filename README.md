@@ -23,7 +23,8 @@
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-thebadge&logo=openjdk&logoColor=white)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-thebadge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+
+<!-- ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-thebadge&logo=node.js&logoColor=white)&nbsp;&nbsp; -->
 
 ### Data
 
@@ -73,6 +74,6 @@
 
 ![youngee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung98&hide=contribs,prs&show_icons=true&theme=graywhite)
 
-![youngee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung98&theme=graywhite&show_icons=true&hide=contribs,prs)
+<!-- ![youngee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung98&theme=graywhite&show_icons=true&hide=contribs,prs) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
