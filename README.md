@@ -74,7 +74,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung98&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-![youngee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung98&hide=contribs,prs&show_icons=true&theme=graywhite)
+<!-- ![youngee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung98&hide=contribs,prs&show_icons=true&theme=graywhite) -->
 
 <!-- ![youngee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung98&theme=graywhite&show_icons=true&hide=contribs,prs) -->
 
