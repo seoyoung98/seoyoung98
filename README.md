@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # Welcome!!
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoyoung98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+%5E.%5E&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href=
 "https://github.com/seoyoung98">![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-thebadge&logo=github&logoColor=white)</a> &nbsp;&nbsp;
 <a href="https://corinyoungee.tistory.com/"><img src="https://img.shields.io/badge/corinyoungee.tistory-red?style=square&logo=coringyoungee&logoColor=orange"/></a>&nbsp;&nbsp;
@@ -71,7 +71,6 @@
 ![]()
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsltjdud)](https://solved.ac/alsltjdud/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung98&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
